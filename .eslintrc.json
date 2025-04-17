@@ -1,0 +1,9 @@
+{
+  "extends": ["eslint:recommended", "next"],
+  "env": {
+    "jest": true
+  },
+  "rules": {
+    "no-unused-vars": ["error", { "args": "none" }]
+  }
+}
