@@ -3,9 +3,9 @@ const nextConfig = {
   images: {
     remotePatterns: [{ protocol: "https", hostname: "a.espncdn.com" }],
   },
-  experimental: {
-    serverActions: true, // Enable server actions
-  },
+  // experimental: {
+  //   serverActions: true, // Enable server actions
+  // },
 };
 
 module.exports = nextConfig;
