@@ -23,7 +23,7 @@ const linkData = [
 
 const externalLink = {
   text: "FanFeed",
-  href: "http://localhost:3000", // 🆕 replace with your external URL
+  href: "https://fan-feed.vercel.app", // 🆕 replace with your external URL
 };
 
 export default function Navbar() {
